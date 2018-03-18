@@ -1,0 +1,39 @@
+# Struktur Data dengan Java
+
+- Pengenalan Materi
+  - Apa itu Struktur Data
+- Array
+  - Menggunakan Array
+  - Array Dua Dimensi
+  - Array Multi Dimensi
+- List
+  - Apa itu List
+  - Membuat List
+- Set
+  - Apa itu Set
+  - Membuat Set
+  - Apa itu Sorted Set
+  - Membuat Sorted Set
+- Linked List
+  - Apa itu Linked List
+  - Membuat Linked List
+  - Apa itu Double Linked List
+  - Membuat Double Linked List
+- Stack
+  - Apa itu Stack
+  - Membuat Stack
+- Queue
+  - Apa itu Queue
+  - Membuat Queue
+  - Apa itu Priority Queue
+  - Membuat Priority Queue
+- Map
+  - Apa itu Map
+  - Membuat Map
+- Tree
+  - Apa itu Tree
+  - Membuat Binary Tree
+  - Membuat Balance Tree
+- Graph
+  - Apa itu Graph
+  - Membuat Graph
